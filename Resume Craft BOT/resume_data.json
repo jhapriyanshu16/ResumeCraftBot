@@ -1,0 +1,84 @@
+{
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science",
+            "university": "Rochester Institute of Technology",
+            "location": "Rochester, NY",
+            "year": "2016 - 2020"
+        }
+    ],
+    "experience": [
+        {
+            "title": "Junior Software Developer",
+            "company": "ByteBuilders Inc.",
+            "location": "Remote",
+            "duration": "07/2022 \u2013 09/2022",
+            "description": [
+                "Developed a software library using Python, resulting in a 30% reduction in development time and a 20% increase in code reusability.",
+                "Developed software for embedded systems using Assembly language, resulting in a 100% success rate in meeting project deadlines and a 15% reduction in system errors."
+            ]
+        }
+    ],
+    "skills": [
+        "Embedded systems programming",
+        "Software library development",
+        "Algorithm design and implementation",
+        "Software tools and utilities development",
+        "Database design and implementation"
+    ],
+    "projects": [
+        {
+            "title": "Responsive Portfolio Website",
+            "description": "Developed a visually appealing and responsive portfolio website to showcase my skills and experience. Implemented responsive design principles to ensure it adapts seamlessly across various devices (desktop, tablet, mobile).",
+            "link": "github.com"
+        },
+        {
+            "title": "Interactive To- Do List App (HTML, CSS, Javascript)",
+            "description": "Built an interactive to-do list web application using JavaScript. Users can add, edit, and mark tasks as complete. Explored functionalities like local storage or browser cookies for persistence, allowing users to save their to-do lists.",
+            "link": "github.com"
+        },
+        {
+            "title": "E commerce Website",
+            "description": "Constructed a simple e-commerce website demonstrating product listings, shopping cart features, and basic checkout functionalities. Utilized HTML, CSS, and JavaScript to structure web pages, handle user input, and integrate with a test payment gateway (consider mentioning the specific API used, if applicable).",
+            "link": "github.com"
+        },
+        {
+            "title": "Single-Page Application (SPA) Landing Page (React/Vue.js)",
+            "description": "Created a dynamic single-page application landing page using a framework like React or Vue.js. Highlighted understanding of component-based architecture and dynamic content loading, showcasing the ability to build modern, interactive web experiences.",
+            "link": "github.com"
+        }
+
+    ],
+    "certification": [
+        {
+            "certificatename": "Microsoft Certified: Azure Fundamentals (AZ-900)",
+            "certificatedetail": "Microsoft",
+            "year": "06/2023"
+        },
+        {
+            "certificatename": "CompTIA A+ Certification",
+            "certificatedetail": "CompTIA",
+            "year": "06/2022"
+        },
+        {
+            "certificatename": "Cisco Certified Network Associate (CCNA)",
+            "certificatedetail": "Cisco",
+            "year": "06/2021"
+        }
+    ],
+    "language": [
+        "French",
+        "English"
+    ],
+    "basicdetails": [
+        {
+            "author": "Haley Ngozi",
+            "email": "haley@ngozi.com",
+            "address": "UK",
+            "phone": "7654321",
+            "linkedinurl": "inkedin.com/in/haley-ngozi",
+            "githuburl": "github.com",
+            "role": "Web Developer"
+        }
+    ]
+}
