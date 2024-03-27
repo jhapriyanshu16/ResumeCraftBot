@@ -49,11 +49,12 @@ To get started with ResumeCraftBot, follow these steps:
     ```
 
 5. **Command Handlers:**
-
-    Command handlers are defined for various bot functionalities:
+   ```bash
+      Command handlers are defined for various bot functionalities:
       -/aireviewresume: Initiates AI review of the resume.
       -/getresume: Generates and sends the resume PDF.
       -/start: Initiates the process of collecting basic details from the user.
+   ```
 
 ## Functionality
 
