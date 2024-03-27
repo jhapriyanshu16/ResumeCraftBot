@@ -71,7 +71,7 @@ ResumeCraftBot offers the following features:
 - [Gemini API](https://geminiapi.com/): AI-powered tools for text analysis.
 
 ## Prompt Used
-    ```bash
+    ```
     Task Description:
     Your Telegram bot, equipped with the ReviewResumeWithAI feature, is designed to give users a detailed review of their resumes. The resume information is structured in a JSON format, containing sections for       education, certification, experience, skills, languages, and projects. The review should encompass the following key aspects:
     Overall Score: Assess the overall quality of the resume and assign a score out of 100, considering completeness, relevance, and presentation.
@@ -103,6 +103,9 @@ ResumeCraftBot offers the following features:
     iv) Avoid suggesting using different fonts and icons as the resume structured is predefined as it is made using reportlab and user has no control over it.
     v) Describe in detail and use the content in json file to give tailored and precise output
     ```
+
+## Output
+![Alt text](ResumeCraftBot/res/SS.png)
 
 ## Contributing
 
