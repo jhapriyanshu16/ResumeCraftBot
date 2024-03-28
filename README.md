@@ -1,4 +1,4 @@
-d# ResumeCraftBot
+# ResumeCraftBot
 
 ResumeCraftBot is a AI powered Telegram bot designed to assist users in creating and dowloading professional resumes effortlessly. The bot utilizes Gemini API to provide personalized suggestions, formatting tips, and suggestions to showcase users' skills and experiences effectively.
 
