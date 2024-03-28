@@ -112,7 +112,6 @@ ResumeCraftBot offers the following features:
 ![Step 1](ResumeCraftBot/res/4.png)
 ![Step 1](ResumeCraftBot/res/5.png)
 ![Step 1](ResumeCraftBot/res/6.png)
-![Step 1](ResumeCraftBot/res/7.png)
 
 
 ## Output
