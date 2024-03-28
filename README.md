@@ -105,11 +105,18 @@ ResumeCraftBot offers the following features:
     ```
 
 ## How to use the bot?
-[embed]ResumeCraftBot/res/resumebot.pdf [/embed]
+
+![Step 1](ResumeCraftBot/res/1.png)
+![Step 1](ResumeCraftBot/res/2.png)
+![Step 1](ResumeCraftBot/res/3.png)
+![Step 1](ResumeCraftBot/res/4.png)
+![Step 1](ResumeCraftBot/res/5.png)
+![Step 1](ResumeCraftBot/res/6.png)
+![Step 1](ResumeCraftBot/res/7.png)
 
 
 ## Output
-![Alt text](ResumeCraftBot/res/SS.png)
+![OutputSS](ResumeCraftBot/res/SS.png)
 
 ## Contributing
 
