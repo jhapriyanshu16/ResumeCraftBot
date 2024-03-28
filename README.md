@@ -104,6 +104,10 @@ ResumeCraftBot offers the following features:
     v) Describe in detail and use the content in json file to give tailored and precise output
     ```
 
+## How to use the bot?
+[embed]ResumeCraftBot/res/resumebot.pdf [/embed]
+
+
 ## Output
 ![Alt text](ResumeCraftBot/res/SS.png)
 
